@@ -1,0 +1,19 @@
+﻿  Creating proxy/bridge routines
+  Lab_3_Enclave.cpp
+  Lab_3_Enclave_t.c
+     Создается библиотека C:\Lab_3\x64\Simulation\Lab_3_Enclave.lib и объект C:\Lab_3\x64\Simulation\Lab_3_Enclave.exp
+  Lab_3_Enclave.vcxproj -> C:\Lab_3\x64\Simulation\Lab_3_Enclave.dll
+  sign the enclave
+  The required memory is 0x165000.
+  Succeed.
+  <EnclaveConfiguration>
+      <ProdID>0</ProdID>
+      <ISVSVN>0</ISVSVN>
+      <StackMaxSize>0x40000</StackMaxSize>
+      <HeapMaxSize>0x100000</HeapMaxSize>
+      <TCSNum>1</TCSNum>
+      <TCSPolicy>1</TCSPolicy>
+      <DisableDebug>0</DisableDebug>
+      <MiscSelect>0</MiscSelect>
+      <MiscMask>0xFFFFFFFF</MiscMask>
+  </EnclaveConfiguration>
