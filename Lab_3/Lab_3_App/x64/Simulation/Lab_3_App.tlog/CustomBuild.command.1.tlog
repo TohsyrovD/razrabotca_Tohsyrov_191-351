@@ -1,2 +1,0 @@
-^F:\POLYTECH\3-6\RAZRABOTKA\LAB_3_ENCLAVE\LAB_3\LAB_3_ENCLAVE\LAB_3_ENCLAVE.EDL
-"D:\Programm Files\Intel\IntelSGXSDK\\bin\win32\Release\sgx_edger8r.exe" --untrusted ".\..\Lab_3_Enclave\Lab_3_Enclave.edl" --search-path ".\..\Lab_3_Enclave;D:\Programm Files\Intel\IntelSGXSDK\\include"
